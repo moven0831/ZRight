@@ -1,2 +1,6 @@
 target/
 build/
+
+# Bindings
+**/**/libmopro_bindings.so
+**/**/libmopro_bindings.a
