@@ -1,2 +1,2 @@
 target_adapters = ["circom"]
-target_platforms = ["ios"]
+target_platforms = ["ios", "android"]
